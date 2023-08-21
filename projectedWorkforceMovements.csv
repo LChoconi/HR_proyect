@@ -1,0 +1,20 @@
+﻿MovID;Position;Department;Salary;DateofMov;Quantity
+1;Production Technician I;Production       ;62506;1/2/2024;1
+2;Sr. DBA;IT/IS;104437;3/3/2024;1
+3;Production Technician II;Production       ;64955;31/3/2024;-1
+4;Production Technician I;Production       ;64991;1/1/2024;5
+5;Production Technician I;Production       ;50825;31/3/2024;-5
+6;Production Technician I;Production       ;57568;31/5/2024;-3
+7;Software Engineer;Software Engineering;95660;1/8/2024;1
+8;Production Technician I;Production       ;59365;1/9/2024;1
+9;Production Technician I;Production       ;47837;1/9/2024;1
+10;IT Support;IT/IS;50178;1/1/2024;2
+11;Accountant I;Admin Offices;63000;1/3/2024;1
+12;Production Technician II;Production       ;65288;31/5/2024;-3
+13;Production Technician I;Production       ;46837;31/5/2024;-1
+14;Database Administrator;IT/IS;105700;30/6/2024;-1
+15;Database Administrator;IT/IS;84560;1/7/2024;1
+16;Production Technician I;Production       ;61154;31/3/2024;-10
+17;Production Technician I;Production       ;50482;1/10/2023;10
+18;Sr. Network Engineer;IT/IS;93206;1/7/2024;1
+19;Production Manager;Production       ;82758;1/6/2024;2
